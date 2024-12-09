@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "972977394163",
+    "firebase_url": "https://medical-management-6c653-default-rtdb.firebaseio.com",
+    "project_id": "medical-management-6c653",
+    "storage_bucket": "medical-management-6c653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972977394163:android:d838070f365ccf9bab0286",
+        "android_client_info": {
+          "package_name": "com.app.grocery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxmJJqOeomorlF7sxRhC45L_r3t5LefmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972977394163:android:cf09896facdeb454ab0286",
+        "android_client_info": {
+          "package_name": "com.app.grocery_app_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxmJJqOeomorlF7sxRhC45L_r3t5LefmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972977394163:android:028104a426a03cb9ab0286",
+        "android_client_info": {
+          "package_name": "com.example.pharmacy_superadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxmJJqOeomorlF7sxRhC45L_r3t5LefmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
